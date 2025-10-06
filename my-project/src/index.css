@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap");
+@import "tailwindcss";
+
+@font-face {
+  font-family: BenovaRegular;
+  font-display: swap;
+  src: url("./assets/BenovaRegular.ttf") format("truetype");
+}
+
+@theme {
+  --font-benova: BenovaRegular, sans-serif;
+}
+
+.letter-buttons-wrapper {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+}
