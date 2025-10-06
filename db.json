@@ -1,26 +1,6 @@
 {
   "words": [
     {
-      "wordValue": "ECLIPSE",
-      "wordHint": "When day briefly turns to night ☀️🌑"
-    },
-    {
-      "wordValue": "MIRAGE",
-      "wordHint": "Looks real, but isn’t — especially in the desert 🌵"
-    },
-    {
-      "wordValue": "CRYPTIC",
-      "wordHint": "Something puzzling or mysterious 🕵️‍♂️"
-    },
-    {
-      "wordValue": "PARADOX",
-      "wordHint": "A statement that contradicts itself 🌀"
-    },
-    {
-      "wordValue": "QUICKSAND",
-      "wordHint": "The more you struggle, the deeper you sink 🏝️"
-    },
-    {
       "wordValue": "LABYRINTH",
       "wordHint": "A maze that confuses even the smartest minds 🧩"
     },
@@ -154,3 +134,4 @@
     }
   ]
 }
+
