@@ -1,38 +1,6 @@
 {
   "words": [
     {
-      "wordValue": "LABYRINTH",
-      "wordHint": "A maze that confuses even the smartest minds 🧩"
-    },
-    {
-      "wordValue": "SERENDIPITY",
-      "wordHint": "Finding something good without looking for it 🍀"
-    },
-    {
-      "wordValue": "PNEUMONIA",
-      "wordHint": "A lung infection with a tongue-twister name 💨"
-    },
-    {
-      "wordValue": "CAMOUFLAGE",
-      "wordHint": "When blending in is a survival skill 🦎"
-    },
-    {
-      "wordValue": "PSYCHOLOGY",
-      "wordHint": "The science of the mind 🧠"
-    },
-    {
-      "wordValue": "EUPHORIA",
-      "wordHint": "A feeling of intense happiness 🎆"
-    },
-    {
-      "wordValue": "OBLIVION",
-      "wordHint": "The state of being completely forgotten or unaware 🌌"
-    },
-    {
-      "wordValue": "ASTEROID",
-      "wordHint": "A space rock on a lonely orbit ☄️"
-    },
-    {
       "wordValue": "ILLUSION",
       "wordHint": "Deceptive appearance or false belief 🎭"
     },
@@ -134,4 +102,5 @@
     }
   ]
 }
+
 
