@@ -1,50 +1,6 @@
 {
   "words": [
     {
-      "wordValue": "ILLUSION",
-      "wordHint": "Deceptive appearance or false belief 🎭"
-    },
-    {
-      "wordValue": "QUARANTINE",
-      "wordHint": "A word that defined 2020 😷"
-    },
-    {
-      "wordValue": "HYPOTHESIS",
-      "wordHint": "A scientific guess that needs proof 🧪"
-    },
-    {
-      "wordValue": "SPECTRUM",
-      "wordHint": "A band of colors or a range of ideas 🌈"
-    },
-    {
-      "wordValue": "NEBULA",
-      "wordHint": "A cloud of gas and dust in space 🌌"
-    },
-    {
-      "wordValue": "ALGORITHM",
-      "wordHint": "Rules computers follow to solve problems 🤖"
-    },
-    {
-      "wordValue": "PERSPECTIVE",
-      "wordHint": "How you see things — literally or figuratively 👁️"
-    },
-    {
-      "wordValue": "RHYTHM",
-      "wordHint": "The only word with no real vowel 🥁"
-    },
-    {
-      "wordValue": "CHAOS",
-      "wordHint": "When order takes a day off ⚡"
-    },
-    {
-      "wordValue": "VORTEX",
-      "wordHint": "A swirling mass of air or water 🌪️"
-    },
-    {
-      "wordValue": "PHOENIX",
-      "wordHint": "A mythical bird reborn from its ashes 🔥"
-    },
-    {
       "wordValue": "METAMORPHOSIS",
       "wordHint": "When a caterpillar becomes something better 🦋"
     },
@@ -102,5 +58,6 @@
     }
   ]
 }
+
 
 
